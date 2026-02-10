@@ -97,6 +97,3 @@ Proyek ini bersifat open-source dan berada di bawah lisensi [MIT](https://openso
 <p align="center">Dikembangkan dengan ❤️ oleh <a href="https://www.google.com/search?q=https://github.com/Malikzert">Malikzert</a></p>
 
 ```
-**Apakah ada file SQL khusus di dalam repo tersebut?** Jika namanya bukan `db_elektroshop`, silakan ubah bagian "Konfigurasi Database" di atas sesuai nama file `.sql` kamu ya\!
-
-```
